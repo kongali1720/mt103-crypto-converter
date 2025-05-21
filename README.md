@@ -41,3 +41,5 @@ Distributed under the MIT License. See LICENSE for more information.
 - **Nama**: Kongali1720  
 - **Email**: [kongali1720@gmail.com](mailto:kongali1720@gmail.com)  
 - **GitHub**: [https://github.com/kongali1720](https://github.com/kongali1720)
+
+Terima Kasih.-
